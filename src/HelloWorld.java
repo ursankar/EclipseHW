@@ -14,7 +14,7 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 	
-		String msg = "hi";
+		String msg = "hi THere";
 		// TODO Auto-generated method stub
 		System.out.println("My first java program "+msg);
 	}
